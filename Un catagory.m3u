@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="pravasi" tvg-logo="" group-title="Entertainment",pravasi
+https://m6gdavepdn93-hls-live.5centscdn.com/pravasi/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="a" tvg-logo="" group-title="",a
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/93dc292b-cbcf-4988-ab97-94feced4c14b/manifest.m3u8
+#EXTINF:-1 tvg-name="mov" tvg-logo="" group-title="",mov
+https://d3opw4b2eztyyq.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-name="Americas got talent" tvg-logo="" group-title="",Americas got talent
+https://d1i40wgstaij6f.cloudfront.net/webvtt/v1/18584c3f3a2a4df8/88886062/master.m3u8
+#EXTINF:-1 tvg-name="A got Talent" tvg-logo="" group-title="",A got Talent
+https://d2mexh8isep4mf.cloudfront.net/AmericasGotTalent_GB.m3u8
+#EXTINF:-1 tvg-name="American Idol" tvg-logo="" group-title="Entertainment",American Idol
+https://d2yn8dyffvmgy.cloudfront.net/AmericanIdol_GB.m3u8
